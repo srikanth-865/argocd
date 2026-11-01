@@ -5,4 +5,4 @@ metadata:
   labels:
     environment: dev
     project: roboshop
-    purpose: poc
+    purpose: poc 
