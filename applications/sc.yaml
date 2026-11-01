@@ -11,7 +11,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/daws-90s/argocd.git
+    repoURL: https://github.com/srikanth-865/argocd.git
     targetRevision: main
     path: storage-classes
 
